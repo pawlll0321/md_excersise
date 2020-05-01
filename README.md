@@ -1,3 +1,17 @@
 # md_excersise
 Cwiczenie z markdown
-Łącze github
+
+## Zadanie
+''Nazywam się Paweł Wójcik''
+'''Mam 23 lata'''
+
+
+''Interesuję się''
+# Piłką nożną
+# Informatyką
+# Muzyką
+
+
+= Ulubieni piłkarze =
+* Robert Lewandowski
+* Kamil Grosicki
