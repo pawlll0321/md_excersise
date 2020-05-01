@@ -3,15 +3,17 @@ Cwiczenie z markdown
 
 ## Zadanie
 **Nazywam się Paweł Wójcik**
+
 *Mam 23 lata*
 
+Link do wsei:(https://dl.wsei.lublin.pl)
 
-''Interesuję się''
-Piłką nożną
- Informatyką
- Muzyką
+1.Interesuję się
+ - Piłką nożną
+ - Informatyką
+ - Muzyką
 
 
-= Ulubieni piłkarze =
-* Robert Lewandowski
-* Kamil Grosicki
+ Ulubieni piłkarze 
+1.Robert Lewandowski
+2.Kamil Grosicki
