@@ -14,6 +14,6 @@ Link do wsei:(https://dl.wsei.lublin.pl)
  - Muzyką
 
 
- Ulubieni piłkarze 
-1.Robert Lewandowski
-2.Kamil Grosicki
+2.Ulubieni piłkarze 
+* Robert Lewandowski
+* Kamil Grosicki
