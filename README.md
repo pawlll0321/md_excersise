@@ -2,8 +2,8 @@
 Cwiczenie z markdown
 
 ## Zadanie
-####Nazywam się Paweł Wójcik''
-'''Mam 23 lata'''
+**Nazywam się Paweł Wójcik**
+*Mam 23 lata*
 
 
 ''Interesuję się''
